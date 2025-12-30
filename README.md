@@ -201,9 +201,9 @@ but you must open-source any modifications under the same license.
 ## Credits
 
 **Team:**
-- [Shayan Mazahir](https://github.com/Shayan-Mazahir) - Lead Developer (Back-end & Front-End)
-- [Mohammad Samin](https://github.com/msamin-25) - Contributor (Front-End)
-- [Rayyan Moosani](https://github.com/Muhammad-Rayyan-Moosani) - Contributor (Back-End)
+- [Mohammad Samin](https://github.com/msamin-25) - (Front-End)
+- [Shayan Mazahir](https://github.com/Shayan-Mazahir) - (Back-end)
+- [Rayyan Moosani](https://github.com/Muhammad-Rayyan-Moosani) - (Back-End)
 
 **Built with:** Claude AI, Monaco Editor, p5.js, Phaser, Mermaid
 
