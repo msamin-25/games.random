@@ -201,7 +201,7 @@ but you must open-source any modifications under the same license.
 ## Credits
 
 **Team:**
-- [Mohammad Samin](https://github.com/msamin-25) - (Front-End)
+- [Mohammad Samin](https://github.com/msamin-25) - (Front-End & Backend)
 - [Shayan Mazahir](https://github.com/Shayan-Mazahir) - (Back-end)
 - [Rayyan Moosani](https://github.com/Muhammad-Rayyan-Moosani) - (Back-End)
 
